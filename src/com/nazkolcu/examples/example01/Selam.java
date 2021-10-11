@@ -1,7 +1,6 @@
-package com.nazkolcu.example01;
+package com.nazkolcu.examples.example01;
 
 public class Selam{
-
     String world = "millet";
 
     public String selamSoyle(String kime){

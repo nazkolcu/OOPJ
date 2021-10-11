@@ -1,4 +1,4 @@
-package com.nazkolcu.example01;
+package com.nazkolcu.examples.example01;
 
 public class SelamTest{
 
@@ -13,5 +13,7 @@ public class SelamTest{
 
         cevap = nesne.selamSoyle("");
         System.out.println(cevap);
+
+        System.out.println(nesne.world);
     }
 }
