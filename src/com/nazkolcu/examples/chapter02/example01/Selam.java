@@ -1,4 +1,4 @@
-package com.nazkolcu.examples.example01;
+package com.nazkolcu.examples.chapter02.example01;
 
 public class Selam{
     String world = "millet";
